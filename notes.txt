@@ -1,0 +1,17 @@
+#About
+    -> Right now the assumption is that the user paid the whole amount
+#Page-1
+    1. add manually
+    2. Upload receipts
+        2.1. Image made into csv file(coloums:item,rate)
+        2.2. Display the csv file adding coloums name,quantity entered by user
+#Page-2
+    1. Add a box for quantity between item and amount
+    2. Add a button for submit(Split)
+#Problems to be solve
+    1. Scenario when an item is consumed by a single person and the same item is shared between multiple person 
+#Future Enhancement
+    1. Multi-payer(whole amount is not paid by a single individual)
+        1.1. Input  for two coloums name and amount paid by user(page-3)
+        1.2. Display what each individual owns to one another  
+    2. Audio input
